@@ -18,7 +18,3 @@ My experience in cybersecurity has sharpened my capabilities in problem-solving,
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Veronika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vdevhub&show_icons=true&theme=radical)
