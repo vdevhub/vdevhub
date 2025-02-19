@@ -5,7 +5,7 @@ My experience in cybersecurity has sharpened my capabilities in problem-solving,
 
 - 💻 **Front-End Development**: JavaScript, HTML, CSS, and frameworks like React and Angular.
 - 🌐 **Back-End Development**: Node.js, Express, and MongoDB.
-- - 🔒 **Cybersecurity Experience**: Specialized in automation and investigations - incident response, digital forensics, automation-SOAR, Python, Google Apps Script.
+- 🔒 **Cybersecurity Experience**: Specialized in automation and investigations - incident response, digital forensics, automation-SOAR, Python, Google Apps Script.
 
 ## 🛠️ Technologies & Tools
 
