@@ -1,13 +1,11 @@
 # Hi there, I'm Veronika! 👋
 
-I'm a web developer with a background in cybersecurity, passionate about crafting modern applications that elevate user experience and make a meaningful impact. 
-My experience in cybersecurity has sharpened my capabilities in problem-solving, attention to detail, and operational efficiency—all of which I now want to channel into creating seamless web experiences.
+I'm a web developer with a background in cybersecurity, passionate about crafting modern applications that elevate user experience and make a meaningful impact.
 
+## 💡 Knowledge
 - 💻 **Front-End Development**: JavaScript, HTML, CSS, and frameworks like React and Angular.
-- 🌐 **Back-End Development**: Node.js, Express, and MongoDB.
-- 🔒 **Cybersecurity Experience**: Specialized in automation and investigations - incident response, digital forensics, automation-SOAR, Python, Google Apps Script, Power Automate.
-
-## 🛠️ Technologies & Tools
+- 🌐 **Back-End Development**: Node.js, Express, MongoDB, Python, and Google Apps Script.
+- 🔒 **Cybersecurity Experience**: Specialized in automation and investigations - incident response, digital forensics, automation-Splunk SOAR (Phantom), Python, Google Apps Script, Power Automate.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
