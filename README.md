@@ -5,7 +5,7 @@ I'm a web developer with a background in cybersecurity, passionate about craftin
 ## 💡 Knowledge
 - 💻 **Front-End Development**: JavaScript, HTML, CSS, and frameworks like React and Angular.
 - 🌐 **Back-End Development**: Node.js, Express, MongoDB, Python, and Google Apps Script.
-- 🔒 **Cybersecurity Experience**: Specialized in automation and investigations - incident response, digital forensics, automation-Splunk SOAR (Phantom), Python, Google Apps Script, Power Automate.
+- 🔒 **Cybersecurity Experience**: Specialized in automation and investigations - incident response, digital forensics, automation with Splunk SOAR (Phantom), Python, Google Apps Script, and Microsoft Power Automate.
 
 ## 🛠️ Tech List
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
