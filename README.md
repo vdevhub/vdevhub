@@ -1,6 +1,6 @@
 # Hi there, I'm Veronika! 👋
 
-I'm a web developer with a background in cybersecurity, passionate about crafting modern applications that elevate user experience and make a meaningful impact.
+I'm a developer with experience in cybersecurity, passionate about crafting modern applications, tools, and automation that enhance user experience and create a meaningful impact.
 
 ## 💡 Knowledge
 - 💻 **Front-End Development**: JavaScript, HTML, CSS, and frameworks like React and Angular.
